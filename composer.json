@@ -2,6 +2,8 @@
     "name": "mshige1979/helloworld",
     "description": "sample",
     "license": "MIT",
+	"type": "library",
+	"homepage": "https://github.com/mshige1979/HelloWorld",
     "authors": [
         {
             "name": "shigeharu matsumoto",
