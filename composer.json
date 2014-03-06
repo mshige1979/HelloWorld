@@ -1,0 +1,23 @@
+{
+    "name": "mshige1979/helloworld",
+    "description": "sample",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "shigeharu matsumoto",
+            "email": "m_shige1979@r2.dion.ne.jp"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    },
+	"require-dev": {
+        "phpunit/phpunit": "3.7.*"
+    },
+	"autoload": {
+		"psr-0": {
+			"Mshige1979\\HelloWorld": "src/"
+		}
+    }
+}
