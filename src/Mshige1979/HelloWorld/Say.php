@@ -11,7 +11,7 @@ class Say{
 
 	// 文字列数を返却
 	public static function len($str){
-		return 10;
+		return strlen($str);
 	}
 	
 }
